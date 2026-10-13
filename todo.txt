@@ -1,0 +1,21 @@
+
+this page will be the landing page for each catgeory
+
+
+/artificialintelligence
+/space
+/finance
+/startups
+/ecomomy
+/tech
+/goverments
+
+also read @README.md file
+
+
+
+https://devspace-nextjs-template.vercel.app/    
+
+https://github.com/mercygracestudio/statixflow-lite
+
+https://github.com/abuzar-alvi/XORA-Saas-Platform-Landing-Page
