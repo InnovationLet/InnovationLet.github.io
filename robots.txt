@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://innovationlet.github.io/sitemap.xml
+Host: https://innovationlet.github.io

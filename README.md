@@ -1,46 +1,33 @@
-# 🚀 Welcome to InnovationLet
+# InnovationLet
 
-**InnovationLet** is a premium, tech-focused digital publication and content editorial platform engineered by the **[F9XR Team](https://f9xr.org)**. Our network of professional tech authors, engineers, and industry experts publish breaking updates and rigorous analyses across the modern tech and business landscape.
+**InnovationLet** is an independent technology publication run by the **[F9XR Team](https://f9xr.org)**. We publish daily reporting and analysis across eight desks, each with its own site.
 
----
+## Editorial desks
 
-### 📰 Core Editorial Categories
-We deliver sharp, highly technical, and market-driven journalism across these primary pillars:
+- **[Artificial Intelligence](https://innovationlet.github.io/artificial-intelligence/)** - models, research, agents and policy.
+- **[Space](https://innovationlet.github.io/space/)** - launches, exploration, satellites and the business of orbit.
+- **[Finance](https://innovationlet.github.io/finance/)** - markets, fintech, enterprise finance and digital assets.
+- **[Startups](https://innovationlet.github.io/startups/)** - funding, founders, growth and operations.
+- **[Economy](https://innovationlet.github.io/economy/)** - policy, trade, labor and the business cycle.
+- **[Tech](https://innovationlet.github.io/tech/)** - devices, software, platforms and engineering.
+- **[Governments](https://innovationlet.github.io/governments/)** - regulation, public tech, policy and procurement.
+- **[Gaming](https://innovationlet.github.io/gaming/)** - studios, platforms, engines and esports.
 
-- 🧠 **AI News & Developments** — Deep dives into machine learning models, autonomous agents, and breakthrough neural tech.
-- 📊 **Finance & Accounting** — Enterprise financial analytics, digital accounting, corporate compliance, and FinTech ecosystems.
-- 💻 **Tech** — Architectural case studies, modern frameworks, infrastructure engineering, and clean-code mechanics.
-- 🦄 **Startups** — Operational playbooks, funding news, founder case studies, and scaling strategies.
-- 🏛️ **Government & World** — Cross-border technological regulations, global public digital assets, and macroeconomic news.
-- 🌌 **Space** — Aerospace milestones, deep-tech research, and off-planet engineering advancements.
-- 📈 **Business & Economy** — Global trade tracking, industrial shifts, and market-shaping tech trends.
+## How we report
 
----
+Primary sources first. Every factual claim links to where it came from. When we don't know something, we say so rather than fill the gap with confident phrasing.
 
-### 🤝 Partner & Collaborate with Us
-Looking to leverage InnovationLet’s global reach and engineering audience? We provide tailored channels to put your brand or knowledge in front of high-value tech decision-makers:
+## Work with us
 
-*   **✍️ Guest Posts:** Share your technical expertise or case study with our highly engaged reading community. 
-*   **📢 Advertise:** Feature your developer tools, SaaS applications, or B2B platforms through dedicated sponsor placements and editorial features.
+- **Guest posts:** pitch the desk at [hello@innovationlet.com](mailto:hello@innovationlet.com).
+- **Advertising:** request the media kit at [hello@innovationlet.com](mailto:hello@innovationlet.com).
 
-📫 Want to pitch an article or book a feature slot? Get in touch via **[email protected]** or browse our engineering network at **[f9xr.org](https://f9xr.org)**.
+## Architecture
 
----
+Each desk is a standalone Jekyll site sharing one design system and SEO setup: jekyll-feed for RSS, jekyll-sitemap for `sitemap.xml`, hand-written Open Graph and Twitter cards, JSON-LD (`Organization`, `WebSite`, `NewsArticle`, `FAQPage`), and a generated Open Graph image per desk.
 
-### 🛠️ The Technical DNA (Behind the Platform)
-As an asset managed by the F9XR Team, our digital portals are engineered for high-performance ROI:
+## Connect
 
-*   **Performance:** Target sub-second load times using headless, zero-bloat web frameworks.
-*   **SEO Architecture:** Built with programmatic technical schemas and high Google visibility structures.
-*   **AI Integration:** Enhanced by custom AI logic modules for contextual content categorization and user flows.
-
----
-
-### 🌐 Connect With Us
-- **Main Publication:** [InnovationLet.com](https://innovationlet.f9xr.org) 
-- **Parent Engineering Agency:** [F9XR Team](https://f9xr.org)
-- **LinkedIn:** [F9XR Team LinkedIn](https://linkedin.com)
-
----
-
-⚡ *Follow the InnovationLet organization repository network to access open-source widgets, developer logs, and technical frameworks built by our authors!*
+- **Main publication:** [innovationlet.github.io](https://innovationlet.github.io/)
+- **Editorial contact:** [hello@innovationlet.com](mailto:hello@innovationlet.com)
+- **Parent engineering agency:** [F9XR Team](https://f9xr.org)
