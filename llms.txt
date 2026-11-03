@@ -1,0 +1,17 @@
+﻿# InnovationLet
+
+> Independent technology publication network.
+
+## Sites
+- https://innovationlet.f9xr.org/
+- https://innovationlet.f9xr.org/tech/
+- https://innovationlet.f9xr.org/artificial-intelligence/
+- https://innovationlet.f9xr.org/space/
+- https://innovationlet.f9xr.org/finance/
+- https://innovationlet.f9xr.org/startups/
+- https://innovationlet.f9xr.org/economy/
+- https://innovationlet.f9xr.org/governments/
+- https://innovationlet.f9xr.org/gaming/
+
+## Contact
+- Email: hello@f9xr.org
